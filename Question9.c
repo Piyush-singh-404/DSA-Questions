@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int binarySearch(int arr[], int n, int target) {
     int low = 0, high = n - 1, mid;
     while(low <= high) {
