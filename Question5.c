@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int tyres(int cars, int bikes)
 {
     return (cars * 4) + (bikes * 2);
