@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int sem, sub, i, j, mark, max;
 
