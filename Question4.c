@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int solve(int a, int b)
 {
     int result;
